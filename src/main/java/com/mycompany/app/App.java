@@ -1,12 +1,12 @@
 package com.mycompany.app;
 
 /**
- * Hello world!
+ * Hello world !
  */
 public class App
 {
 
-    private final String message = "Hello World Build Trigger from Jenkins!";
+    private final String message = "Hello World!";
 
     public App() {}
 
